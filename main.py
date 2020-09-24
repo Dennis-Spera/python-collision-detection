@@ -142,7 +142,7 @@ class MainWindow(wx.Frame):
         logger = obj._get('logger')
         logger.info('success: setupTerminal(gui)')
 
-        #obj._dump()
+        obj._dump()
 
 #-------------
 #   M A I N
