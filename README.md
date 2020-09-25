@@ -1,5 +1,5 @@
-####  _python-collision-detection_
-Alt-H2
+####  **python-collision-detection**
+____________________________________
 #####  make all classes inheritable to base class to enable
 #####  collision detection
 
