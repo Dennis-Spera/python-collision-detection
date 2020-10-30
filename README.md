@@ -2,6 +2,8 @@
 ____________________________________
 #####  make all classes inheritable to base class to enable collision detection
 
+:smile:
+
 #####  Base class to contain all other classes
 
 ```python
@@ -13,4 +15,4 @@ class BaseClass(*classes):
             className.__init__(self)```
 
 
-:smile:
+
