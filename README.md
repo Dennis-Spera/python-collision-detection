@@ -2,7 +2,7 @@
 ____________________________________
 #####  make all classes inheritable to base class to enable collision detection
 
-:smile:
+:small_orange_diamond::small_orange_diamond::small_orange_diamond::small_orange_diamond:
 
 #####  Base class to contain all other classes
 
