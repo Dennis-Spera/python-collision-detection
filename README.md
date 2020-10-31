@@ -6,13 +6,12 @@ ____________________________________
 
 #####  Base class to contain all other classes :construction_worker:
 
-```python
 class BaseClass(*classes):
     def __init__(self):
         self.instance = {}
         self.iTree = {}
         for className in classes:
-            className.__init__(self)```
+            className.__init__(self)
 
 
 
