@@ -4,7 +4,7 @@ ____________________________________
 
 
 
-#####  Base class to contain all other classes :construction_worker:
+#####  Base class to contain all other classes :construction_worker::speech_balloon:
 
 ```python
 class BaseClass(*classes):
